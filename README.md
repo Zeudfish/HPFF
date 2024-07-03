@@ -1,7 +1,7 @@
 **HPFF**: Hierarchical Locally Supervised Learning with Patch Feature Fusion
 ========
 PyTorch training code and pretrained models for **HPFF**.We use HPFF to optimize the Local-learning auxiliary network and achieve higher performance than E2E.
-![HPFF](.github/HPFF.png)
+![HPFF](.github/HPFF.jpg)
 
 **What it is**. In this paper, published in ECCV 2024, we propose HPFF as a general method that can be applied to any local learning network. The experimental results show that the local learning network outperforms the end-to-end network after applying the HPFF method. Meanwhile, on some datasets like CIFAR-10, the GPU memory overhead can be reduced by 50%.
 
